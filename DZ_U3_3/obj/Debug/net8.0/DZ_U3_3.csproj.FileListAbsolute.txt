@@ -1,0 +1,14 @@
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/DZ_U3_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/DZ_U3_3.AssemblyInfoInputs.cache
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/DZ_U3_3.AssemblyInfo.cs
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/DZ_U3_3.csproj.CoreCompileInputs.cache
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/bin/Debug/net8.0/DZ_U3_3
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/bin/Debug/net8.0/DZ_U3_3.deps.json
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/bin/Debug/net8.0/DZ_U3_3.runtimeconfig.json
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/bin/Debug/net8.0/DZ_U3_3.dll
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/bin/Debug/net8.0/DZ_U3_3.pdb
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/DZ_U3_3.dll
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/refint/DZ_U3_3.dll
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/DZ_U3_3.pdb
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/DZ_U3_3.genruntimeconfig.cache
+/Users/dimmagio/Desktop/GB_2023/GitTest/C#/DZ/DZ_U3_3/obj/Debug/net8.0/ref/DZ_U3_3.dll
